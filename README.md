@@ -68,6 +68,6 @@ python3 bot.py
 * /broadcast - to broadcast a message to all 𝐌𝐫|| 𝐀𝐛𝐧𝐨𝐫𝐦𝐚𝐥 𝐏𝐑𝐎 𝐁𝐎𝐓 users
 ```
 
-<b>Thanks ›› [𝐌𝐫|| 𝐀𝐛𝐧𝐨𝐫𝐦𝐚𝐥 ](https://telegram.dog/I_am_Mr_Abnormal) |
+<b>Thanks to ›› [𝐌𝐫|| 𝐀𝐛𝐧𝐨𝐫𝐦𝐚𝐥 ](https://telegram.dog/I_am_Mr_Abnormal) |
 [ɢɪᴛʜᴜʙ](github.com/DrDevAnand/)</b> |                                                                                                                                                                                   
 <b>ᴄʜᴀɴɴᴇʟ ›› [𝐓𝐆 ᴜᴘᴅᴀᴛᴇᴢ](https://t.me/Dr_DevAnand)</b>
