@@ -23,12 +23,12 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('𝙿𝚁𝙸𝚅𝙰𝚃𝙴 𝙱𝙾𝚃', url=f"https://t.me/New_movies_download12")
+                InlineKeyboardButton('𝙿𝚁𝙸𝚅𝙰𝚃𝙴 𝙱𝙾𝚃', url=f"https://t.me/AnandMovies_Official")
             ]
             ]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply(script.PRIVATEBOT_TXT.format(message.from_user.mention if message.from_user else message.chat.title, temp.U_NAME, temp.B_NAME), reply_markup=reply_markup)
-        await asyncio.sleep(2) # 😢 https://github.com/beereshpkambali/bpk2-extra-features-lob/master/plugins/p_ttishow.py#L17 😬 wait a bit, before checking.
+        await asyncio.sleep(2) # 😢 https://github.com/DrDevAnand/AnandAutofilterbot-lob/master/plugins/p_ttishow.py#L17 😬 wait a bit, before checking.
         if not await db.get_chat(message.chat.id):
             total=await client.get_chat_members_count(message.chat.id)
             await client.send_message(LOG_CHANNEL, script.LOG_TEXT_G.format(message.chat.title, message.chat.id, total, "Unknown"))       
@@ -41,13 +41,13 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💠 GᏒԾUᎮ 💠', url='https://t.me/+pk_rtGcDUyY2MDY1'),
-            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/New_movies_download12')
+            InlineKeyboardButton('💖 GᏒԾUᎮ 💖', url='https://t.me/+7BRXRQ4eZZk2OWFl'),
+            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/AnandMovies_Official')
             ],[      
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
-            InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
+            InlineKeyboardButton('💪 ΛBOUT 💪', callback_data='about')
             ],[
-            InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://youtube.com/channel/UCjXAdU8aMQLvHsRsO5tluAA')
+            InlineKeyboardButton('🔰 SUBSCᏒIBΞ  🔰', url='https://youtube.com/channel/UCET942fxBtW0zlNB_DrNAxg')
         ]]        
         reply_markup = InlineKeyboardMarkup(buttons)        
         await message.reply_chat_action("Typing")
@@ -88,13 +88,13 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/New_movies_download12'),
-            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/New_movies_download12')
+            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/AnandMovies_Official'),
+            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/AnandMovies_Official')
             ],[      
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
-            InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
+            InlineKeyboardButton('💪 ΛBOUT 💪', callback_data='about')
             ],[
-            InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://youtube.com/channel/UCjXAdU8aMQLvHsRsO5tluAA')
+            InlineKeyboardButton('🔰 SUBSCᏒIBΞ  🔰', url='https://youtube.com/channel/UCET942fxBtW0zlNB_DrNAxg')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_chat_action("Typing")
@@ -247,7 +247,7 @@ async def start(client, message):
         chat_id=message.from_user.id,
         file_id=file_id,
         caption=f_caption,
-        reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('sᴜʙsᴄʀɪʙᴇ',url='youtube.com/channel/UCjXAdU8aMQLvHsRsO5tluAA') ] ] ),
+        reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('sᴜʙsᴄʀɪʙᴇ',url='https://youtube.com/channel/UCET942fxBtW0zlNB_DrNAxg') ] ] ),
         protect_content=True if pre == 'filep' else False,
         )
                     
