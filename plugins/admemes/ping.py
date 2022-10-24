@@ -9,10 +9,10 @@ from plugins.helper_functions.cust_p_filters import f_onw_fliter
 
 # -- Constants -- #
 ALIVE = "ಸತ್ತಿಲ್ಲ ಆದರೆ ಇಲ್ಲೇ ಇದ್ದೀನಿ😔.. ನಿನಗೆ ನನ್ನ ಮೇಲೆ ಈಗ ಪ್ರೀತಿ ಇಲ್ಲ. ಚೆನ್ನಾಗಿದೆ 😏.. ನೀನು ಮೊದಲಿನಂತಿಲ್ಲ ಬದಲಾಗಿಬಿಟ್ಟೆ..🥺" 
-REPO = "<b>𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙰𝙳𝙼𝙸𝙽 𝙵𝙾𝚁 𝚁𝙴𝙿𝙾 ›› https://t.me/I_am_Mr_Abnormal</b>"
-GROUP = "<b>𝙼𝚈 𝙽𝙰𝚃𝙸𝚅𝙴 𝙶𝚁𝙾𝚄𝙿 ›› https://t.me/+pk_rtGcDUyY2MDY1</b>"
-CHANNEL = "<b>𝚈𝙾𝚄𝚃𝚄𝙱𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻</b> ›› https://youtube.com/channel/UCjXAdU8aMQLvHsRsO5tluAA\n\n<b>𝚄𝙿𝙳𝙰𝚃𝙴𝚂 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› https://t.me/New_Movies_download12</b>"
-ABNORMAL = "<b>𝙾𝚆𝙽𝙴𝚁 ›› https://t.me/I_am_Mr_Abnormal</b>"
+REPO = "<b>𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙰𝙳𝙼𝙸𝙽 𝙵𝙾𝚁 𝚁𝙴𝙿𝙾 ›› https://t.me/Dr_DevAnand</b>"
+GROUP = "<b>𝙼𝚈 𝙽𝙰𝚃𝙸𝚅𝙴 𝙶𝚁𝙾𝚄𝙿 ›› https://t.me/+7BRXRQ4eZZk2OWFl</b>"
+CHANNEL = "<b>𝚈𝙾𝚄𝚃𝚄𝙱𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻</b> ›› https://youtube.com/channel/UCET942fxBtW0zlNB_DrNAxg\n\n<b>𝚄𝙿𝙳𝙰𝚃𝙴𝚂 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› https://t.me/AnandMovies_Official</b>"
+ABNORMAL = "<b>𝙾𝚆𝙽𝙴𝚁 ›› https://t.me/Dr_DevAnand</b>"
 # -- Constants End -- #
 
 
@@ -45,8 +45,8 @@ async def channel(_, message):
     await message.reply_text(CHANNEL)
 
 
-@Client.on_message(filters.command("abnormal", COMMAND_HAND_LER) & f_onw_fliter)
+@Client.on_message(filters.command("devanand", COMMAND_HAND_LER) & f_onw_fliter)
 async def abnormal(_, message):
-    await message.reply_text(ABNORMAL)
+    await message.reply_text(DEVANAND)
 
 
