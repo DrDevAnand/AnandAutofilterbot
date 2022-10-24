@@ -747,13 +747,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💠 GᏒԾUᎮ 💠', url='https://t.me/+pk_rtGcDUyY2MDY1'),
-            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/New_movies_download12')
+            InlineKeyboardButton('💖 GᏒԾUᎮ 💖', url=https://t.me/+7BRXRQ4eZZk2OWFl'),
+            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/AnandMovies_Official')
             ],[      
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
-            InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
+            InlineKeyboardButton('💪 ΛBOUT 💪', callback_data='about')
             ],[
-            InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://youtube.com/channel/UCjXAdU8aMQLvHsRsO5tluAA')
+            InlineKeyboardButton('🔰 SUBSCᏒIBΞ  🔰', url='https://youtube.com/channel/UCET942fxBtW0zlNB_DrNAxg')
         ]]
         reply1 = await query.message.reply_text(
             text="▢▢▢▢▢"
@@ -985,7 +985,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons= [[
-            InlineKeyboardButton('♥️ 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 ♥️', url='https://t.me/New_movies_download12')
+            InlineKeyboardButton('♥️ 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 ♥️', url='https://t.me/Dr_DevAnand')
             ],[
             InlineKeyboardButton('🏠 𝙷𝙾𝙼𝙴 🏠', callback_data='start'),
             InlineKeyboardButton('🔐 𝙲𝙻𝙾𝚂𝙴 🔐', callback_data='close_data')
@@ -1629,4 +1629,4 @@ async def manual_filters(client, message, text=False):
     else:
         return False
 
-#𝐌𝐫 𝐀𝐛𝐧𝐨𝐫𝐦𝐚𝐥 𝐏𝐑𝐎 𝐁𝐎𝐓
+#𝐃𝐫 𝐃𝐞𝐯 𝐏𝐑𝐎 𝐁𝐎𝐓
