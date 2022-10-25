@@ -60,7 +60,7 @@ async def showid(client, message):
 @Client.on_message(filters.command("about"))
 async def aboutme(client, message):
         buttons= [[
-            InlineKeyboardButton('♥️ 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙰𝚍𝚖𝚒𝚗 𝙵𝚘𝚛 𝙳𝚎𝚙𝚕𝚘𝚢 ♥️', url='https://t.me/I_am_Mr_Abnormal')
+            InlineKeyboardButton('♥️ 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙰𝚍𝚖𝚒𝚗 𝙵𝚘𝚛 𝙳𝚎𝚙𝚕𝚘𝚢 ♥️', url='https://t.me/Dr_DevAnand')
             ],[
             InlineKeyboardButton('🏠 𝙷𝙾𝙼𝙴 🏠', callback_data='start'),
             InlineKeyboardButton('🔐 𝙲𝙻𝙾𝚂𝙴 🔐', callback_data='close_data')
