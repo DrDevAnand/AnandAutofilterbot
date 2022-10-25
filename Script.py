@@ -10,6 +10,7 @@ class script(object):
 <b>✮ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾-𝙳𝙱</b>
 <b>✮ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄</b>
 <b>✮ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: 𝚅1.0.43</b>
+<b>✮ 𝐓𝐡𝐚𝐧𝐤𝐬 𝐭𝐨: <a href=https://t.me/I_am_Mr_Abnormal>𝐌𝐫 𝐀𝐛𝐧𝐨𝐫𝐦𝐚𝐥</a></b>
 <b>✮ 𝚄𝙿𝙳𝙰𝚃𝙴𝚂: <a href=https://t.me/Dr_DevAnand>𝕯𝖗 𝕯𝖊𝖛𝕬𝖓𝖆𝖓𝖉 sǝıʌoẇ</a></b>
 <b>✮ 𝚈𝙾𝚄𝚃𝚄𝙱𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻: <a href=https://youtube.com/channel/UCET942fxBtW0zlNB_DrNAxg>Anand Movies</a></b>"""
     DONATION_TXT = """<b>𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧 & 𝐏𝐚𝐢𝐝 𝐏𝐫𝐨𝐦𝐨𝐭𝐢𝐨𝐧</b> 
