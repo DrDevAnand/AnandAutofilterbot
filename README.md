@@ -13,6 +13,7 @@
 ## Deploy
 You can deploy this bot anywhere.
 
+<a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/DrDevAnand/Dr_Dev_Filterbot&branch=master&name=Dr_Dev_Filterbot"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
 
 <summary>Deploy To Heroku</summary>
 <br>
