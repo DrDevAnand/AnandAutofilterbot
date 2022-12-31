@@ -1,11 +1,7 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=4000&color=BBC2CC&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Dr+DevAnand+PRO+BOT+%F0%9F%91%8B%F0%9F%8F%BB;it's+one+of+the+Successful+running+Repo+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Give+me+some+idea+to+improve+%F0%9F%93%88;Please+Support+Subscribe+and+Follow+%E2%9A%99%EF%B8%8F;Thanks+for+your+visit+&#128578+..." alt="Dr DevAnand" width="650" height="55">
 
 <p align="center">
   <img src="https://telegra.ph/file/8c080e7afc03c49fcb272.jpg" alt="Anand-Auto-features-Logo">
 </p>
-<h1 align="center">
-  <b>𝐃𝐫|| 𝐃𝐞𝐯𝐀𝐧𝐚𝐧𝐝 𝐏𝐑𝐎 𝐁𝐎𝐓</b>
-</h1>
 
 <a href="https://youtube.com/channel/UCET942fxBtW0zlNB_DrNAxg">
   <img src="https://img.shields.io/badge/𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴-red?logo=youtube" width="200">
